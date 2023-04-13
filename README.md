@@ -1,7 +1,5 @@
 product of react native tutorial 
 
-![Screenshot (21)](https://user-images.githubusercontent.com/113091320/231742212-763d0a32-231b-4852-a9c8-7aaf0a23ccdd.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/113091320/231742229-c104caad-5679-4537-b8db-88dc1732022a.png)
 ![Screenshot (23)](https://user-images.githubusercontent.com/113091320/231742236-c3eb8e98-416b-45c9-96d1-de74730e560e.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/113091320/231742241-838d4179-73c9-44a8-8dde-916a67264182.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/113091320/231742244-c89a4547-ef71-4e33-92bb-2a3d58ea23d9.png)
