@@ -1,4 +1,5 @@
-product of react native tutorial 
+product of react native tutorial (partially sourced from youtube) 
+code run on android virtual device
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/113091320/231742236-c3eb8e98-416b-45c9-96d1-de74730e560e.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/113091320/231742241-838d4179-73c9-44a8-8dde-916a67264182.png)
